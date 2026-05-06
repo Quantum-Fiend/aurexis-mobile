@@ -119,5 +119,4 @@ TriPay implements a production-ready sync strategy:
 
 ---
 
-## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Made by ❤️ By Tushar Singh Bisht
